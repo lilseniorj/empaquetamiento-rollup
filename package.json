@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "web-sev-server --config web-dev-server.config.js",
+    "start": "web-dev-server --config web-dev-server.config.js",
     "build": "rollup -c"
   },
   "keywords": [],
